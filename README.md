@@ -1,3 +1,3 @@
 ## Kerry Turner
 
-### Unity developer | Brighton, London, remote
+### Senior/Lead Game Programmer | Unity, C# | Brighton, London, remote
