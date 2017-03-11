@@ -20,12 +20,12 @@ When I'm not doing anything to do with games, I like making music, cooking and v
 
 ### Speaking history
 
-Unite Europe 2015
-GDC 2015
-Spring Forward 2015
-Brighton Digital Festival 2014
-Hide & Seek Weekender 2012
-Bit of Alright 2012
+* Unite Europe 2015
+* GDC 2015
+* Spring Forward 2015
+* Brighton Digital Festival 2014
+* Hide & Seek Weekender 2012
+* Bit of Alright 2012
 
 ### Contact me
 
