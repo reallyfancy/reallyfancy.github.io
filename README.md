@@ -4,7 +4,7 @@
 
 I'm a programmer, game maker and writer.
 
-I currently work for [Unity Technologies](http://unity3d.com/). I work on the Unity Editor and write articles and tutorials about making games using Unity.
+I currently work for [Unity Technologies](http://unity3d.com/). I do a few different things there: I work on the Unity Editor, I create demo projects and I write articles and tutorials about making games using Unity.
 
 When I'm not doing that, I make [short games](https://reallyfancy.itch.io/) and run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
 
