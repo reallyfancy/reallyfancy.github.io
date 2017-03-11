@@ -2,13 +2,13 @@
 
 ### About me
 
-I'm a programmer, game maker and writer.
+I'm a programmer, game maker, writer and lecturer.
 
-I currently work for [Unity Technologies](http://unity3d.com/). I do a few different things there: I work on the Unity Editor, I create demo projects and I write articles and tutorials about making games using Unity.
+I currently work for [Unity Technologies](http://unity3d.com/). I do a few different things there: I work on the Unity Editor, create demo projects and write articles and tutorials about making games using Unity.
 
-When I'm not doing that, I make [short games](https://reallyfancy.itch.io/) and run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
+When I'm not doing that, I make [short games](https://reallyfancy.itch.io/) and run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture at degree level and teach kids to code.
 
-When I'm not doing anything to do with games, I like making music, cooking and visiting theme parks.
+When I'm not doing anything to do with games and tech, I like making music, cooking and visiting theme parks.
 
 ### Full career history
 
