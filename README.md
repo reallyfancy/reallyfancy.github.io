@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a programmer, game maker, writer and lecturer.
+I'm a programmer, game maker and writer.
 
 I work for [Unity Technologies](http://unity3d.com/) as a developer and trainer. My role is pretty varied, but I'm currently developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
 
