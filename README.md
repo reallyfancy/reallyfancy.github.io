@@ -10,7 +10,7 @@ When I'm not doing that, I make [short games](https://reallyfancy.itch.io/) and 
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-### Full career history
+### Career history
 
 [My LinkedIn profile](https://www.linkedin.com/in/kerryturner)
 
