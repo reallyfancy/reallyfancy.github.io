@@ -16,8 +16,9 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 ### Selected articles I've written
 
-* [Optimizing garbage collection in Unity](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
-* [Optimizing rendering performance in Unity](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
+* [Optimizing scripts in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-scripts-unity-games?playlist=44069)
+* [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
+* [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
 ### Speaking history
 
