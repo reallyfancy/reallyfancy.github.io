@@ -35,11 +35,3 @@ This is a small selection of projects from the last few years. I've worked on a 
 * She Says, Brighton Digital Festival 2014
 * Hide & Seek Weekender 2012
 * Bit of Alright 2012
-
-## Contact
-
-* [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
-* [Github](https://github.com/reallyfancy)
-* [LinkedIn](https://www.linkedin.com/in/kerryturner)
-* [Itch](https://reallyfancy.itch.io/)
-* [Twitter](https://twitter.com/reallyfancy)
