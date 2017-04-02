@@ -1,6 +1,10 @@
-[kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
+## Contact
 
-[Github](https://github.com/reallyfancy) | [LinkedIn](https://www.linkedin.com/in/kerryturner) | [Itch](https://reallyfancy.itch.io/) | [Twitter](https://twitter.com/reallyfancy)
+* [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
+* [Github](https://github.com/reallyfancy)
+* [LinkedIn](https://www.linkedin.com/in/kerryturner)
+* [Itch](https://reallyfancy.itch.io/)
+* [Twitter](https://twitter.com/reallyfancy)
 
 ## About me
 
