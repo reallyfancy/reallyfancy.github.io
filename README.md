@@ -1,3 +1,6 @@
+[kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
+[LinkedIn](https://www.linkedin.com/in/kerryturner) | [Github](https://github.com/reallyfancy) | [Itch](https://reallyfancy.itch.io/) | [Twitter](https://twitter.com/reallyfancy)
+
 ## About me
 
 I currently work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
@@ -35,11 +38,3 @@ This is a small selection of projects from the last few years. I've worked on a 
 * She Says, Brighton Digital Festival 2014
 * Hide & Seek Weekender 2012
 * Bit of Alright 2012
-
-## Contact
-
-* [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
-* [LinkedIn](https://www.linkedin.com/in/kerryturner)
-* [Github](https://github.com/reallyfancy)
-* [Itch](https://reallyfancy.itch.io/)
-* [Twitter](https://twitter.com/reallyfancy)
