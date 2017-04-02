@@ -10,7 +10,7 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 ## Selected work
 
-This is a selection of things I've worked on over the last few years. For more details or my complete career history, contact me.
+This is a selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or full career history.
 
 ### Games
 
