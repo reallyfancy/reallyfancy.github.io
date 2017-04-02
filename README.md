@@ -6,9 +6,9 @@ Outside of work, I make [short games](https://reallyfancy.itch.io/) and run [Bri
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-## Selected work
+## Work
 
-This is a selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or full career history.
+This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or full career history.
 
 ### Games
 
