@@ -1,7 +1,5 @@
 # Kerry Turner
 
-*Programmer, game maker, writer*
-
 ### About me
 
 I'm a programmer, game maker and writer.
