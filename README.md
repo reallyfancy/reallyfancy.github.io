@@ -1,4 +1,6 @@
-## Kerry Turner
+# Kerry Turner
+
+*Programmer, game maker, writer*
 
 ### About me
 
