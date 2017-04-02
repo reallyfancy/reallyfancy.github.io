@@ -10,17 +10,25 @@ Outside of work, I make [short games](https://reallyfancy.itch.io/) and run [Bri
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-### Career history
+### Work
 
-[My LinkedIn profile](https://www.linkedin.com/in/kerryturner)
+#### Published games
 
-### Selected articles I've written
+* Wordalot, MAG Interactive, 2016
+* Potion Pop, MAG Interactive, 2016
+* Point Blank Adventures, Mediatonic Games, 2015
+* Quiz Island, Mediatonic Games, 2015
+* Sticks and Stones, Littleloud, 2013
+* Sweatshop, Littleloud, 2012
+* The Curfew, Littleloud, 2010
+
+#### Selected articles
 
 * [Optimizing scripts in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-scripts-unity-games?playlist=44069)
 * [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
 * [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
-### Speaking history
+#### Speaking history
 
 * Unite Europe 2015
 * GDC 2015
@@ -31,4 +39,6 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 ### Contact me
 
-[kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
+* [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
+* [LinkedIn](https://www.linkedin.com/in/kerryturner)
+* [Twitter](https://twitter.com/reallyfancy)
