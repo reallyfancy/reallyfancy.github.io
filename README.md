@@ -1,7 +1,5 @@
 ## About me
 
-I'm a programmer, game maker and writer.
-
 I work for [Unity Technologies](http://unity3d.com/) as a Developer/Trainer. My role is varied - I'm currently working on a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
 
 Outside of work, I make [short games](https://reallyfancy.itch.io/) and run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
