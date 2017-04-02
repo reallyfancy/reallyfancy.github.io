@@ -36,9 +36,10 @@ This is a selection of projects from the last few years. I've worked on a lot of
 * Hide & Seek Weekender 2012
 * Bit of Alright 2012
 
-## Contact me
+## Find me
 
 * [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
 * [LinkedIn](https://www.linkedin.com/in/kerryturner)
-* [Twitter](https://twitter.com/reallyfancy)
+* [Github](https://github.com/reallyfancy)
 * [Itch](https://reallyfancy.itch.io/)
+* [Twitter](https://twitter.com/reallyfancy)
