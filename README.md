@@ -41,3 +41,4 @@ This is a selection of projects from the last few years. I've worked on a lot of
 * [kerry@reallyfancy.com](mailto:kerry@reallyfancy.com)
 * [LinkedIn](https://www.linkedin.com/in/kerryturner)
 * [Twitter](https://twitter.com/reallyfancy)
+* [Itch](https://reallyfancy.itch.io/)
