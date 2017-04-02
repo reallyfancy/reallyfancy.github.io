@@ -2,3 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
+#forkme-banner {display:none;}
