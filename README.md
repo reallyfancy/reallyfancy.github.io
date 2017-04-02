@@ -8,7 +8,7 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 ## Work
 
-This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or full career history.
+This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) profile for my career history.
 
 ### Games
 
