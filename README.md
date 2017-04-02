@@ -14,6 +14,8 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 #### Games
 
+I worked on these games - and more! - as a programmer. I specialise in optimisation and gameplay programming, with a particular expertise in mobile.
+
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
 * Potion Pop, MAG Interactive, iOS/Android/WebGL, 2015
