@@ -10,9 +10,9 @@ Outside of work, I make [short games](https://reallyfancy.itch.io/) and run [Bri
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-### Work
+### Selected work
 
-#### Published games
+#### Games
 
 * Wordalot, MAG Interactive, 2016
 * Potion Pop, MAG Interactive, 2016
@@ -22,13 +22,13 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 * Sweatshop, Littleloud, 2012
 * The Curfew, Littleloud, 2010
 
-#### Selected articles
+#### Articles
 
 * [Optimizing scripts in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-scripts-unity-games?playlist=44069)
 * [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
 * [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
-#### Speaking history
+#### Talks
 
 * Unite Europe 2015
 * GDC 2015
