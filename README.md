@@ -1,6 +1,6 @@
 ## About me
 
-I currently work for [Unity Technologies](http://unity3d.com/) as a Developer/Trainer. My role is varied - I'm currently working on a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
+I currently work for [Unity Technologies](http://unity3d.com/) as a Developer/Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
 
 Outside of work, I make [short games](https://reallyfancy.itch.io/) and run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
 
