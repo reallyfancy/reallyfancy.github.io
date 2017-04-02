@@ -16,7 +16,6 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 * Wordalot, MAG Interactive, 2016
 * Potion Pop, MAG Interactive, 2015
-* Heartwood, Independent, 2014
 * Point Blank Adventures, Mediatonic Games, 2014
 * Quiz Island, Mediatonic Games, 2014
 * Sticks and Stones, Littleloud, 2013
