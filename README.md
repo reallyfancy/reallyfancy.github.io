@@ -10,6 +10,8 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 ## Selected work
 
+This is a selection of things I've worked on over the last few years. For more details or my complete career history, contact me.
+
 ### Games
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
