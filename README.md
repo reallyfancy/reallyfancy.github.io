@@ -14,13 +14,13 @@ When I'm not doing anything to do with games I like making music, cooking and vi
 
 #### Games
 
-* Wordalot, MAG Interactive, 2016
-* Potion Pop, MAG Interactive, 2015
-* Point Blank Adventures, Mediatonic Games, 2014
-* Quiz Island, Mediatonic Games, 2014
-* Sticks and Stones, Littleloud, 2013
-* Sweatshop, Littleloud, 2012
-* The Curfew, Littleloud, 2010
+* Wordalot, MAG Interactive, iOS/Android, 2016
+* Potion Pop, MAG Interactive, iOS/Android/Web, 2015
+* Point Blank Adventures, Mediatonic Games, iOS/Android, 2014
+* Quiz Island, Mediatonic Games, iOS/Android, 2014
+* Sticks and Stones, Littleloud, iOS, 2013
+* Sweatshop, Littleloud, iOS, 2012
+* The Curfew, Littleloud, Web, 2010
 
 #### Articles
 
