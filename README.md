@@ -1,4 +1,4 @@
-## About me
+## About
 
 I currently work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimization.
 
