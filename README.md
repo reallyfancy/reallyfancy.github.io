@@ -1,16 +1,16 @@
-## About
+## About me
 
-I work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimisation.
+During the day, I work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimisation.
 
-Outside of work, I make [short games](https://reallyfancy.itch.io/) and founded [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
+Outside of work, I make games - you can find them on [itch](https://reallyfancy.itch.io/). I'm very involved in the Brighton games scene, and I founded and co-run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-## Work
+## Works
 
 This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
 
-### Games
+### Commercial games
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
