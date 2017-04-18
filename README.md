@@ -6,15 +6,16 @@ Outside of work, I make games - you can find them on [itch](https://reallyfancy.
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
-## Works
+## Work
 
 This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
 
-### Commercial games
+### Games
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
 * Potion Pop, MAG Interactive, iOS/Android/WebGL, 2015
+* Heartwood, The Rabbit Club, PC/macOS, 2014
 * Point Blank Adventures, Mediatonic Games, iOS/Android, 2014
 * Quiz Island, Mediatonic Games, iOS/Android, 2014
 * Sticks and Stones, Littleloud, iOS, 2013
