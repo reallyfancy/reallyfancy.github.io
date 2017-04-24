@@ -1,8 +1,8 @@
 ## About me
 
-During the day, I work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimisation.
+I work for [Unity Technologies](http://unity3d.com/) as a Developer and Trainer. My role is varied - right now I'm developing a new feature for the Unity Editor, creating demo projects and writing tutorials on performance optimisation.
 
-Outside of work, I make [short games](https://reallyfancy.itch.io/). I founded and co-run [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
+Outside of work, I make [short games](https://reallyfancy.itch.io/) and I organise [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode). I also speak at conferences, lecture (at college and degree level) and teach kids to code.
 
 When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
 
