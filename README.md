@@ -28,9 +28,10 @@ This is a small selection of projects from the last few years. I've worked on a 
 * [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
 * [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
-### Talks
+### Talks and panels
 
-* Unite Europe 2015
+* [Unite Europe 2017] (https://www.youtube.com/watch?v=1e5WY2qf600)
+* [Unite Europe 2015] (https://www.youtube.com/watch?v=gVjW-BeS1bk)
 * Mild Rumpus, GDC 2015
 * Pixels and Prosecco, Spring Forward 2015
 * She Says, Brighton Digital Festival 2014
