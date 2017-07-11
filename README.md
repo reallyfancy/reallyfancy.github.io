@@ -30,8 +30,8 @@ This is a small selection of projects from the last few years. I've worked on a 
 
 ### Talks and panels
 
-* [Unite Europe 2017] (https://www.youtube.com/watch?v=1e5WY2qf600)
-* [Unite Europe 2015] (https://www.youtube.com/watch?v=gVjW-BeS1bk)
+* [Unite Europe 2017](https://www.youtube.com/watch?v=1e5WY2qf600)
+* [Unite Europe 2015](https://www.youtube.com/watch?v=gVjW-BeS1bk)
 * Mild Rumpus, GDC 2015
 * Pixels and Prosecco, Spring Forward 2015
 * She Says, Brighton Digital Festival 2014
