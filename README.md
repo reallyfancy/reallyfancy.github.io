@@ -10,7 +10,7 @@ In my own time, I make [short games](https://reallyfancy.itch.io/) and [music](h
 
 This is a small selection of projects from the last few years. Contact me for more details, or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
 
-### Shipped games
+### Games I've worked on
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
