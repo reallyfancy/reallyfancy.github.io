@@ -2,7 +2,7 @@
 
 I've worked as a programmer in the games industry for the last decade or so. Right now, my day job is leading [Unity](http://unity3d.com/)'s European tier 3 support team.
 
-I'm pretty involved in Brighton's game community, and I started both [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
+I'm pretty involved in Brighton's game community - I started both [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
 
 In my own time, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases).
 
