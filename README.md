@@ -1,16 +1,16 @@
 ## About me
 
-I work for [Unity Technologies](http://unity3d.com/) as a Developer Relations Engineer with a focus on performance optimisation.
+I've worked as a programmer in the games industry for the last decade or so. Right now, my day job is leading [Unity]'s(http://unity3d.com/) European tier 3 support team.
 
-Outside of work, I make [short games](https://reallyfancy.itch.io/) and organise [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
+I'm pretty involved in Brighton's game community, and I started both [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
 
-When I'm not doing anything to do with games I like making music, cooking and visiting theme parks.
+In my own time, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases).
 
 ## Work
 
-This is a small selection of projects from the last few years. I've worked on a lot of things! Contact me for more details or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
+This is a small selection of projects from the last few years. Contact me for more details, or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
 
-### Games
+### Shipped games
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
@@ -22,13 +22,12 @@ This is a small selection of projects from the last few years. I've worked on a 
 * Sweatshop, Littleloud, iOS, 2012
 * The Curfew, Littleloud, Web, 2010
 
-### Articles
+### Articles I've written
 
-* [Optimizing scripts in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-scripts-unity-games?playlist=44069)
 * [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
 * [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
-### Talks and panels
+### Talks I've given
 
 * [Unite Europe 2017](https://www.youtube.com/watch?v=1e5WY2qf600)
 * [Unite Europe 2015](https://www.youtube.com/watch?v=gVjW-BeS1bk)
