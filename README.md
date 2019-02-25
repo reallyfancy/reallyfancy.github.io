@@ -1,6 +1,6 @@
 ## About me
 
-I've worked as a programmer in the games industry for the last decade or so. Right now, my day job is leading [Unity]'s(http://unity3d.com/) European tier 3 support team.
+I've worked as a programmer in the games industry for the last decade or so. Right now, my day job is leading [Unity](http://unity3d.com/)'s European tier 3 support team.
 
 I'm pretty involved in Brighton's game community, and I started both [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
 
