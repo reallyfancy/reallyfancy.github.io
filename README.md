@@ -1,14 +1,12 @@
 ## About me
 
-My day job is leading [Unity](http://unity3d.com/)'s Graphics Documentation team. Before working for Unity, I was a programmer in the games industry.
+I work for [Unity](http://unity3d.com/)'s Documentation team. I lead a team of tech writers, and create documentation and code examples for graphics features. My background is gameplay programming and support engineering.
 
-I like helping with game community events - I started both [Brighton Indies](https://twitter.com/brightonindies) and [Make Play Code](https://twitter.com/makeplaycode).
-
-In my own time, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases).
+Outside of work, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases). I'm involved with the local games community and I regularly volunteer at events.
 
 ## Work
 
-This is a small selection of projects from the last few years. Contact me for more details, or see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner) for my career history.
+This is a small selection of projects that I've worked on over the years as a programmer. For my full career history, see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner).
 
 ### Games I've worked on
 
@@ -27,12 +25,15 @@ This is a small selection of projects from the last few years. Contact me for mo
 * [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
 * [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
 
-### Talks I've given
+### Talks and panels
 
-* [Unite Europe 2017](https://www.youtube.com/watch?v=1e5WY2qf600)
-* Unite Europe 2015
+* [gameHERS Industry Panel, 2020](https://www.twitch.tv/videos/784915557)
+* Unite Europe, 2018
+* Unite Asia, 2018
+* [Unite Europe, 2017](https://www.youtube.com/watch?v=1e5WY2qf600)
+* Unite Europe, 2015
 * Mild Rumpus, GDC 2015
 * Pixels and Prosecco, Spring Forward 2015
 * She Says, Brighton Digital Festival 2014
-* Hide & Seek Weekender 2012
-* Bit of Alright 2012
+* Hide & Seek Weekender, 2012
+* Bit of Alright, 2012
