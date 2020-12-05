@@ -8,7 +8,7 @@ Outside of work, I make [short games](https://reallyfancy.itch.io/) and [music](
 
 This is a small selection of projects that I've worked on over the years. For my full career history, see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner).
 
-### Games I've worked on as a programmer
+### Games I've worked on
 
 * Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
 * Wordalot, MAG Interactive, iOS/Android, 2016
