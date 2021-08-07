@@ -1,6 +1,6 @@
 ## About me
 
-I work for [Unity](http://unity3d.com/)'s Documentation team. I lead a team of tech writers, and create documentation and code examples for graphics features. My background is gameplay programming and support engineering.
+I work for [Unity](http://unity3d.com/). I've done a few different jobs there, but right now I write about graphics. My background is gameplay programming.
 
 Outside of work, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases). I'm involved with the local games community and I regularly volunteer at events.
 
