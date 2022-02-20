@@ -1,29 +1,20 @@
 ## About me
 
-I work for [Unity](http://unity3d.com/). I've done a few different jobs there, but right now I write about graphics. My background is gameplay programming.
+I’m a game programmer with over a decade of games industry experience.
+
+I’m a generalist who can pick up (and enjoy!) whatever’s needed. I’m particularly knowledgeable about gameplay programming and performance optimisation, and I also have a solid understanding of engine code and graphics programming. I’ve shipped or supported games for all major platforms.
+
+I know the Unity engine inside out - I worked there for six years, and led their European tier 3 support team. I'm also experiend with Unreal and with in-house engines.
+
+I’ve spoken at conferences all over the world and lectured at degree level.
 
 Outside of work, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases). I'm involved with the local games community and I regularly volunteer at events.
 
-## Work
+## Freelance work
 
-This is a small selection of projects that I've worked on over the years. For my full career history, see [my LinkedIn profile](https://www.linkedin.com/in/kerryturner).
+I'm available for freelance work. I specialise in consultancy about Unity games, with a focus on performance optimisation, architectural best practices, and porting.
 
-### Games I've worked on
-
-* Forest of Sleep, Twisted Tree Games, PC/macOS/iOS/Android, 2018
-* Wordalot, MAG Interactive, iOS/Android, 2016
-* Potion Pop, MAG Interactive, iOS/Android/WebGL, 2015
-* Heartwood, The Rabbit Club, PC/macOS, 2014
-* Point Blank Adventures, Mediatonic Games, iOS/Android, 2014
-* Quiz Island, Mediatonic Games, iOS/Android, 2014
-* Sticks and Stones, Littleloud, iOS, 2013
-* Sweatshop, Littleloud, iOS, 2012
-* The Curfew, Littleloud, Web, 2010
-
-### Articles I've written
-
-* [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
-* [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
+For more information, rates, or availability, please send me an email.
 
 ### Talks and panels
 
@@ -37,3 +28,8 @@ This is a small selection of projects that I've worked on over the years. For my
 * She Says, Brighton Digital Festival 2014
 * Hide & Seek Weekender, 2012
 * Bit of Alright, 2012
+
+## Selected articles I've written
+
+* [Optimizing garbage collection in Unity games](https://unity3d.com/learn/tutorials/temas/performance-optimization/optimizing-garbage-collection-unity-games?playlist=44069)
+* [Optimizing rendering performance in Unity games](https://unity3d.com/learn/tutorials/topics/performance-optimization/optimizing-graphics-rendering-unity-games?playlist=44069)
