@@ -1,20 +1,12 @@
 ## About me
 
-I’m a game programmer with over a decade of games industry experience.
+I’m a generalist game programmer with over a decade of experience.
 
-I’m a generalist who can pick up (and enjoy!) whatever’s needed. I’m particularly knowledgeable about gameplay programming and performance optimisation, and I also have a solid understanding of engine code and graphics programming. I’ve shipped or supported games for all major platforms.
+I’m a generalist who can pick up (and enjoy!) whatever’s needed, and I’ve shipped and supported games for all major modern platforms. I'm skilled with Unity, Unreal, and in-house engines.
 
-I know the Unity engine inside out - I worked there for six years, and led their European tier 3 support team. I'm also experiend with Unreal and with in-house engines.
+As well as I writing code, I have experience leading teams, speaking at conferences all over the world, and lecturing at degree level.
 
-I’ve spoken at conferences all over the world and lectured at degree level.
-
-Outside of work, I make [short games](https://reallyfancy.itch.io/) and [music](https://fakemice.bandcamp.com/releases). I'm involved with the local games community and I regularly volunteer at events.
-
-## Freelance work
-
-I'm available for freelance work. I specialise in consultancy about Unity games, with a focus on performance optimisation, architectural best practices, and porting.
-
-For more information, rates, or availability, please send me an email.
+Outside of work, I make [short games](https://reallyfancy.itch.io/) and [electronic music](https://fakemice.bandcamp.com/releases). I'm involved with the local games community and I regularly volunteer at events.
 
 ### Talks and panels
 
